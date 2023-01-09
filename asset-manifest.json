@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cabapp-frontend/static/css/main.574b1c22.css",
+    "main.js": "/cabapp-frontend/static/js/main.67681795.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/cabapp-frontend/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/cabapp-frontend/index.html",
+    "main.574b1c22.css.map": "/cabapp-frontend/static/css/main.574b1c22.css.map",
+    "main.67681795.js.map": "/cabapp-frontend/static/js/main.67681795.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/cabapp-frontend/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.574b1c22.css",
+    "static/js/main.67681795.js"
+  ]
+}
